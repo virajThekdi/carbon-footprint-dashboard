@@ -3,14 +3,14 @@ Company: Verdemotion Automotive
 
 Tagline: Driving Sustainable Mobility
 
-📌 Project Overview
+ Project Overview
 
 This project features a single-page, executive-ready Carbon Footprint Dashboard built in Power BI for an automotive manufacturing company.
 The dashboard is intentionally designed as one complete page, ensuring that all critical sustainability KPIs and insights are visible at a glance without navigation.
 
 This one-page design makes it ideal for leadership reviews, ESG reporting, and strategic decision-making.
 
-🎯 Dashboard Objective
+Dashboard Objective
 
 Provide a complete carbon footprint view on one page
 
@@ -20,9 +20,9 @@ Eliminate the need for multiple report pages
 
 Deliver a clean, professional, real-world dashboard layout
 
-📄 Dashboard Structure (Single Page)
+Dashboard Structure (Single Page)
 
-⚠️ Note:
+ Note:
 This project contains ONLY ONE PAGE, and this page represents the final, complete dashboard.
 
 🔹 Page 1:
